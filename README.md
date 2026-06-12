@@ -3,6 +3,8 @@
 An exploratory GIS project using **GeoPandas** to investigate whether London's greener boroughs also report higher levels of happiness. Mental health and green space is a huge topic currently, and I think these results support significant research.
 
 This project was my first real dive into Python's GIS ecosystem, having previously done most of my spatial analysis in R (its better imo, or acrgis/qgis). 
+
+
 ---
 
 ## Overview
