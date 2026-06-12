@@ -48,44 +48,15 @@ After joining the datasets and comparing green space with reported happiness, th
 
 This suggests a **moderate positive relationship** between green space and happiness across London's boroughs, with the result being statistically significant at the 5% level.
 
-While this doesn't imply that green space causes happiness, it does support the idea that greener boroughs tend to report higher levels of wellbeing.
+While this doesn't imply that green space causes happiness, it does support the idea that greener boroughs tend to report higher levels of wellbeing. I love that this broadly supports alot of investigations, particularly in the uk (https://evidence.nihr.ac.uk/alert/local-green-spaces-are-linked-with-better-mental-health/)
 
 ---
 
 ## Visualisations
 
-The notebook produces several visualisations, including:
 
 * Choropleth map of green space across London boroughs
 * Choropleth map of reported happiness
 * Scatter plot with fitted regression line showing the relationship between green space and happiness
 
 ---
-
-## Skills Demonstrated
-
-* Geographic Information Systems (GIS)
-* GeoPandas
-* Data cleaning
-* Spatial joins
-* Data visualisation
-* Statistical analysis
-* Correlation testing
-* Python
-
----
-
-## Future Improvements
-
-Some obvious extensions to this project would be:
-
-* Investigating additional predictors of happiness such as income, crime or housing affordability.
-* Building a multiple linear regression model rather than examining a single variable.
-* Using more recent London Borough Profile data.
-* Producing interactive maps with Folium or Plotly.
-
----
-
-## Author
-
-Created as part of my ongoing effort to become more comfortable using Python for data science and spatial analysis.
